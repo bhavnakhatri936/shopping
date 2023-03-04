@@ -2,14 +2,14 @@ var arr = [
     {
         name: "Red Chex shirt",
         price: "$10",
-        image: "/shopping/red.jpg",
+        image: "red.jpg",
         category: "shirts",
         productid: 1,
     },
     {
         name: "Green Chex shirt",
         price: "$10",
-        image: "/shopping/greenshirt.jpg",
+        image: "greenshirt.jpg",
         category: "shirts",
         productid: 2,
     },
